@@ -1,0 +1,47 @@
+============== Buoi 1 ==============
+ * Stateless component (function)
+ * Statefull component (class)
+ 
+============== Buoi 2 ==============
+* Rendering Elements
+* Handling Events
+* State
+* List keys
+
+============== Buoi 3 ==============
+* Props
+    + class: mặc định có this.props
+    + function: phải có tham số props trên function
+* Lifting State Up
+* Bài tập giỏ hàng
+
+============== Buoi 4 ==============
+* Bài tập giỏ hàng (tt)
+* Bài tập Usermanagement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
